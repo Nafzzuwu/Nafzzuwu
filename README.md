@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://imgur.com/gallery/black-anime-girl-banner-9fP7yj7#Z6NyEjc" alt="Banner" width="100%" />
+  <img src="https://i.imgur.com/Z6NyEjc.gif" alt="Banner GIF" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nafariel</h1>
