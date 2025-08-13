@@ -1,7 +1,12 @@
 <!-- Profil README Naf -->
 
+<!-- Banner -->
+<p align="center">
+  <img src="[https://i.imgur.com/5r3zZqX.png](https://imgur.com/gallery/black-anime-girl-banner-9fP7yj7#Z6NyEjc)" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Nafariel</h1>
-<h3 align="center">Student of University Jember | Game Developer Enthusiast</h3>
+<h3 align="center">Student of University Jember | Beginner Programmer</h3>
 
 ---
 
@@ -15,7 +20,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://discord.com/users/yourdiscordid" target="_blank">
+  <a href="https://discord.com/users/320001516557697024" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://www.instagram.com/n4fzz._/" target="_blank">
