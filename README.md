@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/uAyivvIwhzwAAAAC/tlt.gif" alt="Banner GIF" width="75%" />
+  <img src="https://media1.tenor.com/m/uAyivvIwhzwAAAAC/tlt.gif" alt="Banner GIF" width="50%" height=300px />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nafariel</h1>
