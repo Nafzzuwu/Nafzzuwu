@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/uAyivvIwhzwAAAAC/tlt.gif" alt="Banner GIF" width="50%" height=300px />
+  <img src="https://media1.tenor.com/m/5yUTM6OuaKcAAAAd/itachi-itachi-uchiha.gif" alt="Banner GIF" width="50%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nafariel</h1>
