@@ -14,7 +14,7 @@
 - 🎓 **Student of University Jember**  
 - 🎮 Currently learning **FiveM game development**  
 - 💻 Focusing on **Lua**, **Python**, **C#**, and **JavaScript**  
-- 📍 Based in **Situbondo, East Java, Indonesia**
+- 📍 Based in **Indonesia**
 
 ---
 
