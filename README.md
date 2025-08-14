@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Nafariel</h1>
-<h3 align="center">Student of University Jember | Beginner Programmer</h3>
+<h3 align="center">Beginner Programmer</h3>
 
 ---
 
