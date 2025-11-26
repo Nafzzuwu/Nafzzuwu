@@ -13,7 +13,7 @@
 ### 🧑‍🎓 About Me
 - 🎓 **Student of University Jember**  
 - 🎮 Currently learning **FiveM game development** and **Reverse Engineering** 
-- 💻 Focusing on **Lua**, **Python**, **C#**, and **JavaScript**  
+- 💻 Focusing on **Lua**, **Python**, **C#**, **JavaScript**, **PHP** 
 - 📍 Based in **Indonesia**
 
 ---
