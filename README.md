@@ -12,8 +12,8 @@
 
 ### 🧑‍🎓 About Me
 - 🎓 **Student of University Jember**  
-- 🎮 Currently learning **FiveM game development** and **Reverse Engineering** 
-- 💻 Focusing on **Lua**, **Python**, **C#**, **JavaScript**, **PHP** 
+- 🎮 Currently learning **Reverse Engineering** and **Mobile Development**
+- 💻 Focusing on **Lua**, **Python**, **C#**, **JavaScript**, **PHP**, **Dart**
 - 📍 Based in **Indonesia**
 
 ---
@@ -39,7 +39,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
 ---
