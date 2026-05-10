@@ -48,8 +48,14 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafzzuwu&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafzzuwu&layout=compact&theme=radical" alt="Top languages" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=nafzzuwu&theme=radical" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nafzzuwu&theme=react-dark" />
 </p>
 
 ---
